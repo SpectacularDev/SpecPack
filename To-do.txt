@@ -1,0 +1,2 @@
+Fix Ore Duplicates
+    -Copper - Remove Forestry, Immersive Engineering, IndustrialCraft
